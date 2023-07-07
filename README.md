@@ -1,4 +1,4 @@
-# <p align="center">👋 Hi 👋 Hola! 👋 Bonjour! 👋 안녕하세요! 👋 !مرحباً 👋</p>
+# <p align="center">👋 Hi People! 👋</p>
 
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/9f/75/a7/9f75a735e474d9b8c127fd5383717f44.gif" width="600"/>
