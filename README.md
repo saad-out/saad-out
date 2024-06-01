@@ -4,14 +4,12 @@
   <img src="https://i.pinimg.com/originals/9f/75/a7/9f75a735e474d9b8c127fd5383717f44.gif" width="600"/>
 </div>
 
-# <p align="center"><img src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966"/><img src="https://camo.githubusercontent.com/a6af43479d42a1a2fb5c9b40ee7c8cb4166fe525162357d400ee99afe3eac2fa/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966"/><img src="https://camo.githubusercontent.com/8d2e5ade67746708622cf493822701cc52ab670012770657881559c5b573541c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d75737461636865706172726f742e676966"/></p>
+<h1 align="center">It's me, Saad. SE student From Morocco 🇲🇦</h1>
 
-<h1 align="center">I'm Saad Outchakoucht 🧑‍💻</h1>
+<h3 align="center"></h3>
 
-<h3 align="center">A Software Engineering Student From Morocco 🇲🇦</h3>
-
-- 🔭 I’m passionate about programming, interested in Back-End development
-- 🌱 I’m currently enrolled in a Full Stack Software Engineering program at [*ALX*](https://www.alxafrica.com/)
+- [*ALX*](https://www.alxafrica.com/) graduate & [*1337*](https://1337.ma/en/) student.
+- I code ...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
