@@ -2,10 +2,7 @@
   <img src="https://i.pinimg.com/originals/9f/75/a7/9f75a735e474d9b8c127fd5383717f44.gif" width="600"/>
 </div>
 
-<h1 align="center">I'm Saad. SE student From Morocco 🇲🇦</h1>
-
-<h3 align="center"></h3>
-
+- I'm Saad.
 - [*ALX*](https://www.alxafrica.com/) graduate & [*1337*](https://1337.ma/en/) student.
 - I code ...
 
